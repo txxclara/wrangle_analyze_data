@@ -1,2 +1,2 @@
 # wrangle_analyze_data
-Wrangle and exploration
+Learn to wrange and analyze data
